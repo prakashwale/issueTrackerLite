@@ -44,7 +44,7 @@ const Layout = () => {
             whileTap={{ scale: 0.95 }}
           >
             <Link to="/" style={{ color: 'white', textDecoration: 'none' }}>
-              IssueTracker Pro
+              IssueTracker Lite
             </Link>
           </motion.div>
           
